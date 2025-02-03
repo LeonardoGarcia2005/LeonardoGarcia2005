@@ -1,9 +1,9 @@
 <!--Start Intro-->  
 <h1 align="center">Hi, I'm <strong>Leonardo Garcia</strong> 👨‍💻</h1>
 
-<p align="center">
+<div style="text-align: center; width: 360px; margin: 0 auto; overflow: hidden;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
-</p>
+</div>
 
 <hr/>
 
@@ -42,11 +42,11 @@
   <a href="https://discordapp.com/users/1105985116146258001" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
-  <a href="mailto:leonardojgarciaparada2005@gmail.com" target="blank">
-    <img align="center" src="[https://user-images.githubusercontent.com/88904952/234983774-20f060f2-bc50-4657-b02c-36c5cbe4a945.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILr02sRdXoJN44hOyCsi5_IoaDbYuNcNaSnuHwn9Ei_udVU0nOQGTW_Ffa8duFMt6LWk&usqp=CAU)" alt="email" height="50" width="50" />
-  </a>
+	<a href="mailto:leonardojgarciaparada2005@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-
+<hr/>
+----------------------------------------------------------------------
 ⭐ **Credit:** [Leonardo Garcia](https://github.com/LeonardoGarcia2005)
+
 Last Edited on: 02/02/2024
