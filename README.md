@@ -1,7 +1,7 @@
 <!--Start Intro-->  
 <h1 align="center">Hi, I'm <strong>Leonardo Garcia</strong> 👨‍💻</h1>
-<div align="center" style="transform: translateX(-20px);">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=400&height=30">
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30&margin-left=20">
 </div>
 
 <hr/>
