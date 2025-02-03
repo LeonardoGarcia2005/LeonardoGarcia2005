@@ -12,28 +12,19 @@
 </p>
 <!--End Intro-->
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,postman,discord,sequelize,nodejs,react,linux,html,css,vscode,fastapi,py,postgresql,sqlite,mongodb,nginx,github,express&perline=10">
 </p>
 <!-- Connect with me -->
 <div align="center">
-  <h2>Connect With Me 🤝</h2>
+  <h2>🤝 Connect With Me</h2>
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Leonard07556504)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardogarcia7753/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1105985116146258001)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardojgarciaparada2005@gmail.com)
 </div>
-<p align="center">
-  <a href="https://twitter.com/Leonard07556504" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-  </a> 
-  <a href="https://www.instagram.com/leonardogarcia7753/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a>
-  <a href="https://discordapp.com/users/1105985116146258001" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
-  </a>
-  <a href="mailto:leonardojgarciaparada2005@gmail.com" target="blank" style="margin-top: -10px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="50" width="50" />
-  </a>
-</p>
 <hr/>
 ⭐ **Credit:** [Leonardo Garcia](https://github.com/LeonardoGarcia2005)
 
