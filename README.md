@@ -43,7 +43,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
   <a href="mailto:leonardojgarciaparada2005@gmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234983774-20f060f2-bc50-4657-b02c-36c5cbe4a945.png" alt="email" height="50" width="50" />
+    <img align="center" src="[https://user-images.githubusercontent.com/88904952/234983774-20f060f2-bc50-4657-b02c-36c5cbe4a945.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILr02sRdXoJN44hOyCsi5_IoaDbYuNcNaSnuHwn9Ei_udVU0nOQGTW_Ffa8duFMt6LWk&usqp=CAU)" alt="email" height="50" width="50" />
   </a>
 </p>
 
