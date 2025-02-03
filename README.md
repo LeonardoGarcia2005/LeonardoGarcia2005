@@ -1,6 +1,6 @@
 <!--Start Intro-->  
 <h1 align="center">Hi, I'm <strong>Leonardo Garcia</strong> 👨‍💻</h1>
-<div style="text-align: center; margin-left: -200px;">
+<div style="text-align: center; margin-left: -80px;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </div>
 
@@ -25,20 +25,20 @@
   <h2>Connect With Me 🤝</h2>
 </div>
 
-<div align="center">
-  <a href="https://twitter.com/Leonard07556504" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="50" />
+<p align="center">
+  <a href="https://twitter.com/Leonard07556504" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+  </a> 
+  <a href="https://www.instagram.com/leonardogarcia7753/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
   </a>
-  <a href="https://www.instagram.com/leonardogarcia7753/" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
+  <a href="https://discordapp.com/users/1105985116146258001" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
-  <a href="https://discordapp.com/users/1105985116146258001" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50" />
-  </a>
-  <a href="mailto:leonardojgarciaparada2005@gmail.com" style="text-decoration: none; margin: 0 10px;">
+  <a href="mailto:leonardojgarciaparada2005@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="50" width="50" />
   </a>
-</div>
+</p>
 
 <hr/>
 
