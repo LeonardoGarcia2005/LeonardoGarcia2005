@@ -1,7 +1,7 @@
 <!--Start Intro-->  
 <h1 align="center">Hi, I'm <strong>Leonardo Garcia</strong> 👨‍💻</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=450&height=30" style="margin-left: -55px">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=false&vCenter=true&width=450&height=30&margin=0px+0px+0px+-40px">
 </div>
 <hr/>
 <h3 align="center">💡 Junior Backend Developer | IT Engineering Student</h3>
@@ -23,7 +23,6 @@
   <h2>Connect With Me 🤝</h2>
 </div>
 
-<!--icons and links-->
 <div align="center">
   <a href="https://twitter.com/Leonard07556504" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
