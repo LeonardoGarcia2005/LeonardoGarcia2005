@@ -14,7 +14,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,postman,discord,sequelize,nodejs,react,linux,html,css,vscode,fastapi,py,postgresql,sqlite,mongodb,nginx,github,express&perline=10">
+<img src="https://skillicons.dev/icons?i=js,postman,discord,sequelize,nodejs,react,linux,html,css,vscode,fastapi,py,postgresql,sqlite,mongodb,nginx,github,express,graphql,apollo&perline=10">
 </p>
 <!-- Connect with me -->
 <div align="center">
@@ -26,6 +26,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardojgarciaparada2005@gmail.com)
 </div>
 <hr/>
-⭐ **Credit:** [Leonardo Garcia](https://github.com/LeonardoGarcia2005)
 
-Last Edited on: 02/02/2024
+* ⭐ Credit: [LeonardoGarcia2005](https://github.com/LeonardoGarcia2005)
+* 📅 Last Edited on: 02/02/2024
